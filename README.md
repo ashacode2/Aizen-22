@@ -1,44 +1,34 @@
+Hi, I'm Ayesha 👋
 
+🎓 UX Design Student
+🎨 Beginner UX Designer
+💻 Learning Web Development
 
-<!---# Hi, I'm Ayesha 👋
+🌷 About Me
 
-🎓 UX Design Student  
-🎨 Beginner UX Designer  
-💻 Learning Web Development  
-
----
-
-## 🌷 About Me
-
-I’m a UX Design student passionate about creating intuitive, user-friendly digital experiences.  
-Currently learning UX research, wireframing, prototyping, and front-end development to better understand how design and code work together.
+I’m a UX Design student passionate about creating intuitive and user-friendly digital experiences.
+Currently learning UX research, wireframing, prototyping, and front-end development to understand how design and code work together.
 
 I believe good design is not just about how it looks — but how it works.
 
----
+🛠️ Currently Learning
 
-## 🛠️ Currently Learning
+UX Research & User Personas
 
-- UX Research & User Personas  
-- Wireframing & Prototyping (Figma)  
-- UI Design Principles  
-- HTML & CSS  
-- Basic JavaScript  
+Wireframing & Prototyping (Figma)
 
----
+UI Design Principles
 
-## 🌱 Goals
+HTML & CSS
 
-- Build real-world UX case studies  
-- Improve my UI skills  
-- Turn my designs into working websites  
-- Keep growing every day 🚀  
+Basic JavaScript
 
----
+🌱 Goals
 
-## 📌 Status
+Build real-world UX case studies
 
-Student | Focused on learning | Not open to work yet
-Aizen-22/Aizen-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Improve my UI skills
+
+Turn my designs into working websites
+
+Keep growing every day 🚀
