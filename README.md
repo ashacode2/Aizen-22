@@ -1,4 +1,4 @@
-Hi, I'm Ayesha 👋
+Hi, I'm Asha👋
 
 🎓 UX Design Student
 🎨 Beginner UX Designer
